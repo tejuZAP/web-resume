@@ -1,0 +1,68 @@
+.body {
+    text-align: center;
+}
+
+.name {
+    margin: 0px 0;
+    text-align: center;
+}
+
+.info {
+    margin: 20px 0;
+    position:relative;
+    left: 100px;
+}
+
+.qualification {
+    margin: 20px 0;
+    position: relative;
+    left: 80px;
+}
+
+.qualifications-s {
+    position: relative;
+    left: 100px;
+}
+
+.summary {
+    margin: 20px 0;
+    position: relative;
+    left: 80px;
+}
+
+.summarypoints {
+    margin: 20px 0;
+    position: relative;
+    left: 100px;
+}
+
+.education {
+    margin: 20px 0;
+    position: relative;
+    left: 80px;
+}
+
+.langskil {
+    margin: 20px 0;
+    position: relative;
+    left: 80px;
+}
+
+.degree {
+    position: relative;
+    left: 100px;
+}
+
+.school {
+    position:relative;
+    left: 100px;
+}
+
+hr {
+    border: none;          /* Removes default border */
+    height: 1px;           /* Sets the thickness */
+    position:relative;
+    left: 60;
+    background-color: #333; /* Sets the color */
+  }
+  
