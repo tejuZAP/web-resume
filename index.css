@@ -59,10 +59,10 @@
 }
 
 hr {
-    border: none;          /* Removes default border */
-    height: 1px;           /* Sets the thickness */
+    border: none;         
+    height: 1px;           
     position:relative;
     left: 60;
-    background-color: #333; /* Sets the color */
+    background-color: #333; 
   }
   
